@@ -1,0 +1,27 @@
+C:\Users\z639388\Documents\Visual Studio 2013\Projects\RESXTranslator\RESXTranslator\bin\Debug\RESXTranslator.exe.config
+C:\Users\z639388\Documents\Visual Studio 2013\Projects\RESXTranslator\RESXTranslator\bin\Debug\RESXTranslator.exe
+C:\Users\z639388\Documents\Visual Studio 2013\Projects\RESXTranslator\RESXTranslator\bin\Debug\RESXTranslator.pdb
+C:\Users\z639388\Documents\Visual Studio 2013\Projects\RESXTranslator\RESXTranslator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z639388\Documents\Visual Studio 2013\Projects\RESXTranslator\RESXTranslator\bin\Debug\System.Net.Http.dll
+C:\Users\z639388\Documents\Visual Studio 2013\Projects\RESXTranslator\RESXTranslator\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\z639388\Documents\Visual Studio 2013\Projects\RESXTranslator\RESXTranslator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z639388\Documents\Visual Studio 2013\Projects\RESXTranslator\RESXTranslator\bin\Debug\System.Net.Http.xml
+C:\Users\z639388\Documents\Visual Studio 2013\Projects\RESXTranslator\RESXTranslator\obj\Debug\RESXTranslator.frmRESXTranslator.resources
+C:\Users\z639388\Documents\Visual Studio 2013\Projects\RESXTranslator\RESXTranslator\obj\Debug\RESXTranslator.Properties.Resources.resources
+C:\Users\z639388\Documents\Visual Studio 2013\Projects\RESXTranslator\RESXTranslator\obj\Debug\RESXTranslator.csproj.GenerateResource.Cache
+C:\Users\z639388\Documents\Visual Studio 2013\Projects\RESXTranslator\RESXTranslator\obj\Debug\RESXTranslator.exe
+C:\Users\z639388\Documents\Visual Studio 2013\Projects\RESXTranslator\RESXTranslator\obj\Debug\RESXTranslator.pdb
+C:\Users\z639388\Downloads\Compressed\RESXTranslator\RESXTranslator\bin\Debug\RESXTranslator.exe.config
+C:\Users\z639388\Downloads\Compressed\RESXTranslator\RESXTranslator\bin\Debug\RESXTranslator.exe
+C:\Users\z639388\Downloads\Compressed\RESXTranslator\RESXTranslator\bin\Debug\RESXTranslator.pdb
+C:\Users\z639388\Downloads\Compressed\RESXTranslator\RESXTranslator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z639388\Downloads\Compressed\RESXTranslator\RESXTranslator\bin\Debug\System.Net.Http.dll
+C:\Users\z639388\Downloads\Compressed\RESXTranslator\RESXTranslator\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\z639388\Downloads\Compressed\RESXTranslator\RESXTranslator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z639388\Downloads\Compressed\RESXTranslator\RESXTranslator\bin\Debug\System.Net.Http.xml
+C:\Users\z639388\Downloads\Compressed\RESXTranslator\RESXTranslator\obj\Debug\RESXTranslator.csprojResolveAssemblyReference.cache
+C:\Users\z639388\Downloads\Compressed\RESXTranslator\RESXTranslator\obj\Debug\RESXTranslator.frmRESXTranslator.resources
+C:\Users\z639388\Downloads\Compressed\RESXTranslator\RESXTranslator\obj\Debug\RESXTranslator.Properties.Resources.resources
+C:\Users\z639388\Downloads\Compressed\RESXTranslator\RESXTranslator\obj\Debug\RESXTranslator.csproj.GenerateResource.Cache
+C:\Users\z639388\Downloads\Compressed\RESXTranslator\RESXTranslator\obj\Debug\RESXTranslator.exe
+C:\Users\z639388\Downloads\Compressed\RESXTranslator\RESXTranslator\obj\Debug\RESXTranslator.pdb

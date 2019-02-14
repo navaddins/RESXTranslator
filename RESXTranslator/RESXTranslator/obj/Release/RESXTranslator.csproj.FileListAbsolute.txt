@@ -1,0 +1,11 @@
+C:\Temp\RESXTranslator\RESXTranslator\bin\Release\RESXTranslator.exe.config
+C:\Temp\RESXTranslator\RESXTranslator\bin\Release\RESXTranslator.exe
+C:\Temp\RESXTranslator\RESXTranslator\bin\Release\RESXTranslator.pdb
+C:\Temp\RESXTranslator\RESXTranslator\bin\Release\Newtonsoft.Json.dll
+C:\Temp\RESXTranslator\RESXTranslator\bin\Release\Newtonsoft.Json.pdb
+C:\Temp\RESXTranslator\RESXTranslator\bin\Release\Newtonsoft.Json.xml
+C:\Temp\RESXTranslator\RESXTranslator\obj\Release\RESXTranslator.frmRESXTranslator.resources
+C:\Temp\RESXTranslator\RESXTranslator\obj\Release\RESXTranslator.Properties.Resources.resources
+C:\Temp\RESXTranslator\RESXTranslator\obj\Release\RESXTranslator.csproj.GenerateResource.Cache
+C:\Temp\RESXTranslator\RESXTranslator\obj\Release\RESXTranslator.exe
+C:\Temp\RESXTranslator\RESXTranslator\obj\Release\RESXTranslator.pdb

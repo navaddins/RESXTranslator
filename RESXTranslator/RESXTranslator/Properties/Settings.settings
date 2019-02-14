@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RESXTranslator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TranslateAPIBaseUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.cognitive.microsofttranslator.com/{0}?api-version=3.0</Value>
+    </Setting>
+    <Setting Name="TranslateSubscriptionKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ProxyUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ProxyUseDefaultCredentials" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ProxyUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ProxyPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BingSpellCheckUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.cognitive.microsoft.com/bing/v7.0/spellcheck</Value>
+    </Setting>
+    <Setting Name="BingSpellCheckSubscriptionKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
