@@ -1,0 +1,2 @@
+# RESXTranslator
+Resource File Translator
